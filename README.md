@@ -4,12 +4,11 @@ This project presents a comprehensive analysis of pharmaceutical sales data acro
 ## 🔍Overview
 The dataset contains detailed pharmaceutical sales records across distributors, customers, products, and regions.
 The analysis was conducted entirely in Microsoft Excel using;
-- Power query editor,
-- PivotTables, and
-- Visualisations to transform raw transactional data into actionable business insights.
+- Power query editor
+- PivotTables
+- And visualisations to transform raw transactional data into actionable business insights.
 
-Five core business questions were addressed, each supported by dedicated PivotTables and charts. 
-A consolidated dashboard was also developed to provide a high-level overview of all insights in a single view.
+Five core business questions were addressed, each supported by dedicated PivotTables and charts. A consolidated dashboard was also developed to provide a high-level overview of all insights in a single view.
 
 ## 📊 Dashboard Preview
 A consolidated view of all key analyses and insights.
@@ -36,8 +35,7 @@ The analysis was guided by the following business questions:
 - **Source:** Brain Pharmacy Dataset
 - _Time Period: 2017 – 2018_
 - _Data Type: Transactional Sales Data_
-- **Key Fields/Columns:** Distributor, Customer Name, City, Country, Channel, Sub-channel, Product Name, Product Class, Quantity, Price,
--  Sales Revenue, Month, Year, Sales Rep, Manager, Sales Team
+- **Key Fields/Columns:** Distributor, Customer Name, City, Country, Channel, Sub-channel, Product Name, Product Class, Quantity, Price, Sales Revenue, Month, Year, Sales Rep, Manager, Sales Team
 
 ## 🛠Tools & Technologies Used
 - Microsoft Excel
