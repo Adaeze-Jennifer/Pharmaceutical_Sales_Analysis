@@ -13,7 +13,7 @@ Five core business questions were addressed, each supported by dedicated PivotTa
 ## 📊 Dashboard Preview
 A consolidated view of all key analyses and insights.
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard]<img src="images/dashboard_screenshot.png" width="900">
 
 ## 🎯 Objectives
 The analysis was guided by the following business questions:
