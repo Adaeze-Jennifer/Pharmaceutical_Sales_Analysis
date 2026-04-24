@@ -101,14 +101,12 @@ This represents the overall business performance across both countries over the 
 ## 📈 Trends and Behavioural Patterns
 Sales performance shows a clear growth trajectory, but the pattern is structurally inconsistent.
 
-While overall revenue increased year-on-year, the concentration of sales in specific months suggests that performance is driven by periodic spikes rather than sustained demand. This could be influenced by:
-
+While overall revenue increased year-on-year, the concentration of sales in specific months suggests that performance is driven by periodic spikes rather than sustained demand. This could be influenced by: 
 - Promotional campaigns
 - Bulk distributor purchases
 - Seasonal demand cycles
 
 The strong dominance of Ribabyclor indicates that product-market fit is not evenly distributed across the portfolio. Most products contribute marginally, suggesting:
-
 - Weak positioning
 - Low demand
 - Or inadequate distribution strategies
@@ -118,39 +116,36 @@ From a regional perspective, the near-equal performance of Poland and Germany in
 ## 💡Recommendations
 - **Reduce Product Dependency Risk**
 Ribabyclor drives a disproportionate share of revenue. The business should:
-
-- Strengthen supply chain reliability for this product
-- Simultaneously invest in diversifying revenue across other products
+ - Strengthen supply chain reliability for this product
+ - Simultaneously invest in diversifying revenue across other products
   
 - **Investigate Negative Revenue Products**
 Immediate investigation is required for:
-- Immurenol Temarate
-- Raparidol
+ - Immurenol Temarate
+ - Raparidol
 _Focus areas:_
-- Return rates
-- Pricing errors
-- Distributor issues
-- Data entry accuracy
+ - Return rates
+ - Pricing errors
+ - Distributor issues
+ - Data entry accuracy
   
 - **Optimise Low-Performing Products**
 Products with consistently low or negative performance should be:
-- Repositioned
-- Bundled with high-performing products
-- Or potentially discontinued
+ - Repositioned
+ - Bundled with high-performing products
+ - Or potentially discontinued
 
 - **Address Seasonal Sales Volatility**
 Low-performing months (April, November) require targeted intervention:
-
-- Promotional campaigns
-- Distributor incentives
-- Demand stimulation strategies
+ - Promotional campaigns
+ - Distributor incentives
+ - Demand stimulation strategies
 
 - **Strengthen Market Expansion Strategy**
 With Poland and Germany performing almost equally, growth will require:
-
-- Deeper penetration in high-performing regions
-- Exploration of new markets
-- Or differentiated strategies per country
+ - Deeper penetration in high-performing regions
+ - Exploration of new markets
+ - Or differentiated strategies per country
 
 
 ## Conclusion
