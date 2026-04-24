@@ -53,18 +53,6 @@ The analysis was guided by the following business questions:
 - Cleaned trailing spaces and formatting issues
 - Verified Month and Year fields for time-based analysis
 - Identified anomalies (negative sales values)
-
-## 📊 Dashboard Development (Project Requirements)
-To address the business questions, five structured analyses were developed using PivotTables and visualisations:
-
-- Product Sales Analysis – Identified top revenue-generating products
-- Country Performance – Compared sales across regions
-- Sales Trend (Yearly & Monthly) – Evaluated performance over time
-- Top & Bottom Products – Highlighted best and worst performers
-- Sales Summary (KPI) – Presented total revenue
-  
-Each analysis was built on a dedicated worksheet and supported with appropriate chart visualisations.
-The dashboard preview above provides a consolidated view of these analyses.
   
 ## 📈Key Trends Discovered
 ### 1. Product Revenue Concentration
@@ -117,6 +105,31 @@ The strong dominance of Ribabyclor indicates that product-market fit is not even
 - Or inadequate distribution strategies
 
 From a regional perspective, the near-equal performance of Poland and Germany indicates stable market penetration, but also reveals a lack of aggressive expansion or differentiation strategy in either market.
+
+## 📊 Dashboard Development (Project Requirements)
+To address the business questions, five structured analyses were developed using PivotTables and visualisations:
+
+- Product Sales Analysis – Identified top revenue-generating products
+- Country Performance – Compared sales across regions
+- Sales Trend (Yearly & Monthly) – Evaluated performance over time
+- Top & Bottom Products – Highlighted best and worst performers
+- Sales Summary (KPI) – Presented total revenue
+  
+Each analysis was built on a dedicated worksheet and supported with appropriate chart visualisations. The dashboard preview above provides a consolidated view of these analyses.
+
+## ⭐ Exploratory Analysis (Beyond Project Requirements)
+
+In addition to the core project requirements, an analysis of **Average Selling Price (ASP)** was conducted to better understand the relationship between pricing, sales volume, and revenue performance.
+
+ASP was calculated as total sales revenue divided by total quantity sold, and is presented as a KPI in the dashboard.
+
+The analysis reveals a clear distinction between **volume-driven** and **price-driven** revenue patterns within the dataset. Some products generate high revenue through large sales volumes at relatively lower prices, while others are sold in much smaller quantities but at significantly higher prices.
+
+For example, several transactions involve very high quantities (e.g. 100–500 units) at moderate price levels, indicating bulk sales or high-demand products. In contrast, other transactions reflect low quantities (1–5 units) with high unit prices (above €700), suggesting premium or specialised products with limited demand.
+
+Additionally, the presence of negative quantities in the dataset highlights product returns or adjustments, further reinforcing the need to interpret revenue performance alongside both pricing and volume dynamics.
+
+This analysis provides a deeper understanding of how revenue is generated, showing that **high revenue is not solely driven by price, but by a combination of pricing strategy and sales volume.**
 
 ## 💡Recommendations
 ### **Reduce Product Dependency Risk**
