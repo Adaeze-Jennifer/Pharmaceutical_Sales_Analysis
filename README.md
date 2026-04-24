@@ -115,37 +115,41 @@ From a regional perspective, the near-equal performance of Poland and Germany in
 
 ## 💡Recommendations
 - **Reduce Product Dependency Risk**
+  
 Ribabyclor drives a disproportionate share of revenue. The business should:
  - Strengthen supply chain reliability for this product
  - Simultaneously invest in diversifying revenue across other products
   
 - **Investigate Negative Revenue Products**
 Immediate investigation is required for:
- - Immurenol Temarate
- - Raparidol
-_Focus areas:_
- - Return rates
- - Pricing errors
- - Distributor issues
- - Data entry accuracy
+   - Immurenol Temarate
+   - Raparidol
+ _Focus areas:_
+  - Return rates
+  - Pricing errors
+  - Distributor issues
+  - Data entry accuracy
   
 - **Optimise Low-Performing Products**
+  
 Products with consistently low or negative performance should be:
  - Repositioned
  - Bundled with high-performing products
  - Or potentially discontinued
 
 - **Address Seasonal Sales Volatility**
+  
 Low-performing months (April, November) require targeted intervention:
- - Promotional campaigns
- - Distributor incentives
- - Demand stimulation strategies
+  - Promotional campaigns
+  - Distributor incentives
+  - Demand stimulation strategies
 
 - **Strengthen Market Expansion Strategy**
+  
 With Poland and Germany performing almost equally, growth will require:
- - Deeper penetration in high-performing regions
- - Exploration of new markets
- - Or differentiated strategies per country
+  - Deeper penetration in high-performing regions
+  - Exploration of new markets
+  - Or differentiated strategies per country
 
 
 ## Conclusion
