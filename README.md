@@ -177,7 +177,7 @@ This project demonstrates the ability to clean, analyse, and interpret structure
 These insights provide a foundation for improving product strategy, stabilising revenue, and supporting data-driven decision-making.
 
 ## 📒Project Notebook 
-- [View Power BI Project File (.pbix)](https://github.com/Adaeze-Jennifer/Customer_Segmentation_and_Behavioural_Analysis_Power_BI/blob/main/project%20files/customer_segmentation.pbix) – Contains the full Power BI report including data model, DAX measures, and interactive visualisations _(Download and open in Power BI Desktop)._
+- [View Excel Project File (.xlsx)](https://github.com/Adaeze-Jennifer/Pharmaceutical_Sales_Analysis/blob/main/project%20files/pharmaceutical_sales_analysis.xlsx)– Contains the full Excel including data model, DAX measures, and interactive visualisations _(Download and open in Power BI Desktop)._
 - [Dashboard Preview](https://github.com/Adaeze-Jennifer/Customer_Segmentation_and_Behavioural_Analysis_Power_BI/blob/main/images/dashboard_screenshot.png) – Snapshot of the final interactive dashboard.
 - [View Full Repository](https://github.com/Adaeze-Jennifer/Customer_Segmentation_and_Behavioural_Analysis_Power_BI/tree/main) – Full documentation, insights, and project breakdown.
 - [Back to Top](#Customer_Segmentation_and_Behavioural_Analysis_Power_BI) - Project Overview and Documentation.
