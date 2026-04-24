@@ -73,6 +73,9 @@ This level of concentration introduces product dependency risk, where overall re
 Poland is the top-performing country with €545,868, slightly ahead of Germany (€536,192).
 Revenue distribution is nearly equal across both countries, indicating a balanced market presence but limited regional differentiation or dominance.
 
+![Country performance](images/01_country_sales_performance)
+1[Country Performance](images/country_performance)
+
 ### 3. Sales Trend Over Time
 Total sales increased from €502,404 in 2017 to €579,656 in 2018 (+15.4% growth).
 Despite overall growth, monthly performance is uneven.
