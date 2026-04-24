@@ -45,7 +45,7 @@ The analysis was guided by the following business questions:
    - PivotTables
    - Charts (Bar, Line, KPI visuals)
 
-## 🧹Data Cleaning and Prepartion(Power Query)
+## 🧹Data Cleaning and Preperation (Power Query)
 - Removed duplicate records
 - Handled missing values
 - Corrected data types (dates, currency, numeric fields)
