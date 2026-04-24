@@ -69,16 +69,20 @@ The dashboard preview above provides a consolidated view of these analyses.
 Sales are heavily concentrated in a single product. Ribabyclor alone contributes **approximately 21.7% of total revenue,** significantly outperforming all other products.
 This level of concentration introduces product dependency risk, where overall revenue performance becomes highly sensitive to the availability, pricing, or demand fluctuations of a single product.
 
-### 2. Regional Performance
+### 2. Country Performance
 Poland is the top-performing country with €545,868, slightly ahead of Germany (€536,192).
 Revenue distribution is nearly equal across both countries, indicating a balanced market presence but limited regional differentiation or dominance.
 
-![Country performance](images/01_country_sales_performance.png)
 ![Country Performance](images/country_performance.png)
 
 ### 3. Sales Trend Over Time
 Total sales increased from €502,404 in 2017 to €579,656 in 2018 (+15.4% growth).
+
+![Yearly Sales Trend](images/yearly_sales_trend.png)
+
 Despite overall growth, monthly performance is uneven.
+
+![Monthly Sales Trend](images/monthly_sales_trend.png)
 - Peak month : **January and October**
 - Low month : **April and November**
 This indicates **seasonality or inconsistent demand cycles,** rather than stable growth throughout the year.
@@ -89,6 +93,7 @@ Top: **Ribabyclor (€234,500)**
 Bottom: **Immurenol Temarate (-€35,451)**
 Negative sales values suggest returns, pricing issues, or operational inefficiencies, and highlight potential weaknesses in product lifecycle management.
 
+![Product Performance](images/product_performance.png)
 ### 5. Total Revenue Performance
 Total sales across the dataset amount to **€1,082,060.**
 This represents the overall business performance across both countries over the two-year period and provides a benchmark for future growth analysis.
