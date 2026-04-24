@@ -114,13 +114,13 @@ The strong dominance of Ribabyclor indicates that product-market fit is not even
 From a regional perspective, the near-equal performance of Poland and Germany indicates stable market penetration, but also reveals a lack of aggressive expansion or differentiation strategy in either market.
 
 ## 💡Recommendations
-- **Reduce Product Dependency Risk**
+### - **Reduce Product Dependency Risk**
   
 Ribabyclor drives a disproportionate share of revenue. The business should:
  - Strengthen supply chain reliability for this product
  - Simultaneously invest in diversifying revenue across other products
   
-- **Investigate Negative Revenue Products**
+### - **Investigate Negative Revenue Products**
 Immediate investigation is required for:
    - Immurenol Temarate
    - Raparidol
@@ -130,21 +130,21 @@ Immediate investigation is required for:
   - Distributor issues
   - Data entry accuracy
   
-- **Optimise Low-Performing Products**
+### - **Optimise Low-Performing Products**
   
 Products with consistently low or negative performance should be:
  - Repositioned
  - Bundled with high-performing products
  - Or potentially discontinued
 
-- **Address Seasonal Sales Volatility**
+### - **Address Seasonal Sales Volatility**
   
 Low-performing months (April, November) require targeted intervention:
   - Promotional campaigns
   - Distributor incentives
   - Demand stimulation strategies
 
-- **Strengthen Market Expansion Strategy**
+### - **Strengthen Market Expansion Strategy**
   
 With Poland and Germany performing almost equally, growth will require:
   - Deeper penetration in high-performing regions
