@@ -91,7 +91,9 @@ This indicates **seasonality or inconsistent demand cycles,** rather than stable
 There is a significant disparity between top and bottom-performing products. To clearly communicate both extremes, the analysis separates high-performing products (visualised in the Top 10 chart) from the lowest-performing product (highlighted via KPI cards in the dashboard):
 
 Top: **Ribabyclor (€234,500)**
+
 Bottom: **Immurenol Temarate (-€35,451)**
+
 Negative sales values suggest returns, pricing issues, or operational inefficiencies, and highlight potential weaknesses in product lifecycle management.
 
 ![Product Performance](images/04_product_performance.png)
