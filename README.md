@@ -179,5 +179,5 @@ These insights provide a foundation for improving product strategy, stabilising 
 ## 📒Project Notebook 
 - [View Excel Project File (.xlsx)](https://github.com/Adaeze-Jennifer/Pharmaceutical_Sales_Analysis/blob/main/project%20files/pharmaceutical_sales_analysis.xlsx)–  Contains the complete Excel workbook, including data cleaning (Power Query), structured analysis (PivotTables), and a fully developed interactive dashboard.
 - [Dashboard Preview](https://github.com/Adaeze-Jennifer/Pharmaceutical_Sales_Analysis/blob/main/images/dashboard_screenshot.png) – Snapshot of the final dashboard highlighting key insights and performance metrics.
-- [View Full Repository](https://github.com/Adaeze-Jennifer/Pharmaceutical_Sales_Analysis/blob/main/images/dashboard_screenshot.png) – Access the full project, including documentation, images, and analysis breakdown.
+- [View Full Repository](https://github.com/Adaeze-Jennifer/Pharmaceutical_Sales_Analysis) – Access the full project, including documentation, images, and analysis breakdown.
 - [Back to Top](#Pharmaceutical_Sales_Analysis) - Project Overview and Documentation.
